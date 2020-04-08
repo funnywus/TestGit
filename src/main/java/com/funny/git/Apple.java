@@ -5,4 +5,7 @@ package com.funny.git;
  * @create 2020-04-08 12:46
  */
 public class Apple {
+    public static void main(String[] args) {
+        System.out.println("left ...");
+    }
 }
